@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>picture-in-picture</string>
+	</array>
+	<key>CleverTapIdentifiers</key>
+	<array>
+		<string>Identity</string>
+		<string>Phone</string>
+	</array>
+	<key>CleverTapAccountID</key>
+	<string>TEST-487-669-RW7Z</string>
+	<key>CleverTapToken</key>
+	<string>TEST-c66-ab4</string>
+	<key>CleverTapDisableIDFV</key>
+	<string>0</string>
+	<key>CleverTapRegion</key>
+	<string>eu1</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

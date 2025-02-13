@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "34F0396C-B533-49F9-BDA8-F06F687BD775"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "578844E6-726D-4264-960A-1A5078F8FED2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IosNativeDisplayTemplate/PiPHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "startPiP()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "578844E6-726D-4264-960A-1A5078F8FED2 - 9a316a8da9e82fb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IosNativeDisplayTemplate.PiPHandler.startPiP() -&gt; ()"
+                  moduleName = "IosNativeDisplayTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaurav.bhoyar/Documents/XcodeProjects/IosNativeDisplayTemplate/IosNativeDisplayTemplate/PiPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "578844E6-726D-4264-960A-1A5078F8FED2 - 9a316a8da9e82fb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IosNativeDisplayTemplate.PiPHandler.startPiP() -&gt; ()"
+                  moduleName = "IosNativeDisplayTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaurav.bhoyar/Documents/XcodeProjects/IosNativeDisplayTemplate/IosNativeDisplayTemplate/PiPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF95D625-C62C-4823-90CC-49C525948C69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IosNativeDisplayTemplate/PiPHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "startPiP()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C5EF0A5-0F2A-4CEC-BFE2-E0183F231E0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IosNativeDisplayTemplate/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
